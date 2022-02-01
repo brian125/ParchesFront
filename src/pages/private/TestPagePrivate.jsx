@@ -1,7 +1,7 @@
 import React from 'react'
 
 const TestPagePrivate = () => {
-  return <div> test private</div>
+  return <div> test privateeeeeee</div>
 }
 
 export default TestPagePrivate
